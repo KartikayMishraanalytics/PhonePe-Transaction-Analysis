@@ -69,8 +69,9 @@ screenshots/ → dashboard preview images
 ## ⬇ Dashboard File Download
 Due to GitHub file size limitations, the Power BI dashboard file is hosted externally:
 
-🔗 **Download Dashboard File:**  
-PASTE-YOUR-DRIVE-LINK-HERE
+### 📥 Download the Dashboard
+Get the full Power BI project here:  
+👉 **[Download PhonePe Transaction Analytics Dashboard (.pbix)](https://drive.google.com/file/d/18BOfxWsnUBJbrVNdpp1VV_invonk6re_/view?usp=sharing)**
 
 ---
 
